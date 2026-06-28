@@ -35,5 +35,5 @@ Le club de basket **Les Pionniers** souhaitait s'inspirer des performances NBA a
 
 ## Auteur
 
-**Bassecou Touré** · Data Analyst · Data ESN  
+**Bassecou Toure** · Data Analyst · Data ESN  
 [LinkedIn](https://www.linkedin.com/in/bassecou-toure) · [Portfolio](https://github.com/Bassecou)
