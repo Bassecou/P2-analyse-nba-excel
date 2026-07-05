@@ -30,8 +30,8 @@ Le club de basket **Les Pionniers** souhaitait s'inspirer des performances NBA a
 
 ## Livrables
 
-- 📊 Fichier Excel avec analyses et visualisations : `[à ajouter]`
-- 📄 Présentation synthétique : `[à ajouter]`
+- 📄 Rapport d'analyse : `[à ajouter]`
+- 📊 Présentation décideurs (PowerPoint) : `[à ajouter]`
 
 ## Auteur
 
