@@ -30,8 +30,8 @@ Le club de basket **Les Pionniers** souhaitait s'inspirer des performances NBA a
 
 ## Livrables
 
-- 📄 Rapport d'analyse : `[à ajouter]`
-- 📊 Présentation décideurs (PowerPoint) : `[à ajouter]`
+- 📄 [Rapport d'analyse](https://github.com/Bassecou/P2-analyse-nba-excel/blob/main/Toure_Bassecou_1_rapport_d%E2%80%99analyse_11.2025.pdf)
+- 📊 [Présentation — Les Pionniers · NBA 2024/2025](https://github.com/Bassecou/P2-analyse-nba-excel/blob/main/Toure_Bassecou_2_presentation_10.2025.pptx)
 
 ## Auteur
 
