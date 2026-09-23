@@ -16,11 +16,13 @@ En tant que Consultant Business Analyst Junior, j'ai accompagné **Les Pionniers
 
 ### 📊 Dashboard
 
-![Dashboard Les Pionniers — NBA Analytics](assets/dashboard.jpg)
+<img width="1446" height="760" alt="Les pionniers Dashboard image 1" src="https://github.com/user-attachments/assets/624db11b-ea80-4b48-9d55-04d6b1510ec8" />
+
 
 ### 📄 Rapport d'analyse
 
-[Consulter le rapport complet (PDF)]([Uploading Rapport_Analyse_Les_Pionniers_NBA.pdf…]()) — méthodologie, résultats commentés, recommandations pour le club
+[Rapport_Analyse_Les_Pionniers_NBA.docx](https://github.com/user-attachments/files/32558105/Rapport_Analyse_Les_Pionniers_NBA.docx)
+— méthodologie, résultats commentés, recommandations pour le club
 
 ## Démarche
 
