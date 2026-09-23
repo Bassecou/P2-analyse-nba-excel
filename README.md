@@ -41,5 +41,5 @@ Excel (TCD, formules, dashboard interactif) · Structuration et nettoyage de don
 
 ## Auteur
 
-**Bassecou Touré** · Data Analyst · Data ESN
-[LinkedIn](https://www.linkedin.com/in/bassecou-toure) · [Portfolio](https://bassecou.github.io/portfolio/)
+**Bassecou Toure** · Data Analyst · Data ESN
+[LinkedIn](https://www.linkedin.com/in/bassecou-toure) · 🌐 **[Découvrir mon portfolio](https://bassecou.github.io/portfolio/)**
